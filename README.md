@@ -27,3 +27,8 @@
  
 - Filling 'null' or empty rows in payment_method columns with 'Unknow' values using **Case**<img width="1355" height="165" alt="Screenshot 2026-11-10 081640" src="https://github.com/user-attachments/assets/7f5be8ca-f85a-480b-91bd-d9fd63813f20" />
 
+- The subscriptions prices : 0.00 for FREE plan, 9.99 for Basic and 19.99 for Premium, So I use cases to create a new column instead <img width="770" height="220" alt="Screenshot 2026-11-10 082222" src="https://github.com/user-attachments/assets/2d604058-8e67-481e-b4ac-c7ecf6e6c07e" />
+
+- Finally, Ranking the customers based on the last updated for get the least status , to git rid of duplicate rows <img width="1415" height="365" alt="Screenshot 2026-11-10 082723" src="https://github.com/user-attachments/assets/89639000-f00d-4851-b872-b23cd2a2fdce" />
+
+## **I have use CTE to have final result in one code**
