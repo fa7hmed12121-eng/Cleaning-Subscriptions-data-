@@ -31,4 +31,4 @@
 
 - Finally, Ranking the customers based on the last updated for get the least status , to git rid of duplicate rows <img width="1415" height="365" alt="Screenshot 2026-11-10 082723" src="https://github.com/user-attachments/assets/89639000-f00d-4851-b872-b23cd2a2fdce" />
 
-## **I have use CTE to have final result in one code**
+## **I have use CTE and sub-queries to have final result in one code**
