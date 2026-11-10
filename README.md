@@ -19,9 +19,9 @@
 </table>
 
 
-# Data Cleaning 
+## ✨ Data Cleaning 
 - United Status, Plan, Country columns values to become Title Case type
-  - remove the extra spaces in the values using **(trim)** function <img width="982" height="62" alt="Screenshot 2026-11-10 080605" src="https://github.com/user-attachments/assets/39fb95b6-e8f9-4bbd-9065-d7ab2d0dfde4" />
+  - Remove the extra spaces in the values using **(trim)** function <img width="982" height="62" alt="Screenshot 2026-11-10 080605" src="https://github.com/user-attachments/assets/39fb95b6-e8f9-4bbd-9065-d7ab2d0dfde4" />
   - Using Cases to match values
 - Fix Start_date column using **coalesce** function, because there is multiple dateframe, so it's use one frame **("Y%-m%-d%")** <img width="850" height="200" alt="Screenshot 2026-11-10 080841" src="https://github.com/user-attachments/assets/e174eb7a-74e1-4a89-beee-e955db7b2dd1" />
  
